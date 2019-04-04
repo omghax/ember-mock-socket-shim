@@ -1,5 +1,7 @@
 # ember-mock-socket-shim
 
+[![Build Status](https://travis-ci.org/omghax/ember-mock-socket-shim.svg?branch=master)](https://travis-ci.org/omghax/ember-mock-socket-shim)
+
 Ember addon which allows you to import [mock-socket](https://github.com/thoov/mock-socket) into your app.
 
 ## Compatibility
