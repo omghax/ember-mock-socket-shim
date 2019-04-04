@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/omghax/ember-mock-socket-shim.svg?branch=master)](https://travis-ci.org/omghax/ember-mock-socket-shim)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=omghax/ember-mock-socket-shim)](https://dependabot.com)
 
 Ember addon which allows you to import [mock-socket](https://github.com/thoov/mock-socket) into your app.
 
