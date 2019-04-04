@@ -1,5 +1,5 @@
 {
-  "name": "ember-mock-socket-shim",
+  "name": "@omghax/ember-mock-socket-shim",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [

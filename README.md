@@ -1,4 +1,4 @@
-# ember-mock-socket-shim
+# @omghax/ember-mock-socket-shim
 
 [![Build Status](https://travis-ci.org/omghax/ember-mock-socket-shim.svg?branch=master)](https://travis-ci.org/omghax/ember-mock-socket-shim)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
@@ -14,7 +14,7 @@ Ember addon which allows you to import [mock-socket](https://github.com/thoov/mo
 ## Installation
 
 ```
-ember install ember-mock-socket-shim
+ember install @omghax/ember-mock-socket-shim
 ```
 
 ## Usage
