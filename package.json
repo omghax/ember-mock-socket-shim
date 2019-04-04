@@ -22,7 +22,13 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^7.1.2"
+    "broccoli-merge-trees": "^3.0.2",
+    "broccoli-rollup": "^2.1.1",
+    "ember-cli-babel": "^7.1.2",
+    "mock-socket": "^8.0.5",
+    "rollup-plugin-buble": "^0.19.6",
+    "rollup-plugin-commonjs": "^9.3.3",
+    "rollup-plugin-node-resolve": "^4.0.1"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.5.0",
