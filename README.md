@@ -1,37 +1,30 @@
-ember-mock-socket-shim
-==============================================================================
+# ember-mock-socket-shim
 
-[Short description of the addon.]
+Ember addon which allows you to import [mock-socket](https://github.com/thoov/mock-socket) into your app.
 
+## Compatibility
 
-Compatibility
-------------------------------------------------------------------------------
+- Ember.js v2.18 or above
+- Ember CLI v2.13 or above
 
-* Ember.js v2.18 or above
-* Ember CLI v2.13 or above
-
-
-Installation
-------------------------------------------------------------------------------
+## Installation
 
 ```
 ember install ember-mock-socket-shim
 ```
 
+## Usage
 
-Usage
-------------------------------------------------------------------------------
+```js
+import { Server, SocketIO, WebSocket } from 'mock-socket';
+```
 
-[Longer description of how to use the addon in apps.]
+See [the mock-socket README](https://github.com/thoov/mock-socket/blob/master/README.md) for more info.
 
-
-Contributing
-------------------------------------------------------------------------------
+## Contributing
 
 See the [Contributing](CONTRIBUTING.md) guide for details.
 
-
-License
-------------------------------------------------------------------------------
+## License
 
 This project is licensed under the [MIT License](LICENSE.md).
