@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.5.0",
-    "@ember/optional-features": "^0.6.3",
+    "@ember/optional-features": "^0.7.0",
     "broccoli-asset-rev": "^3.0.0",
     "commitizen": "^3.0.7",
     "commitlint": "^7.5.2",
