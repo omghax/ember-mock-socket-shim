@@ -5,7 +5,10 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omghax/ember-mock-socket-shim.git"
+  },
   "license": "MIT",
   "author": "",
   "directories": {
