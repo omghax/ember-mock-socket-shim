@@ -21,6 +21,17 @@ module.exports = {
     const mockSocketTree = new Rollup(this.treeGenerator(mockSocketPath), {
       rollup: {
         input: 'index.js',
+        // https://github.com/rollup/rollup/issues/2271#issuecomment-455129819
+        onwarn(warning) {
+          const ignoredCircular = ['websocket.js'];
+          if (
+            warning.code === 'CIRCULAR_DEPENDENCY' &&
+            ignoredCircular.some(d => warning.importer.includes(d))
+          ) {
+            return;
+          }
+          throw Error(warning.message);
+        },
         output: {
           amd: {
             id: 'mock-socket'
