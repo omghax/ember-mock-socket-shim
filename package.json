@@ -1,16 +1,18 @@
 {
   "name": "@omghax/ember-mock-socket-shim",
   "version": "0.1.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember shim for mock-socket",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "mock-socket",
+    "websockets"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/omghax/ember-mock-socket-shim.git"
   },
   "license": "MIT",
-  "author": "",
+  "author": "Dray Lacy <dray@envylabs.com> (https://github.com/omghax)",
   "directories": {
     "doc": "doc",
     "test": "tests"
