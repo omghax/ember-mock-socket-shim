@@ -39,7 +39,7 @@ module.exports = {
           file: 'mock-socket.js',
           format: 'amd'
         },
-        plugins: [buble(), resolve({ jsnext: true, main: true }), commonjs()]
+        plugins: [buble(), resolve({ mainFields: ['jsnext', 'main'] }), commonjs()]
       }
     });
 
