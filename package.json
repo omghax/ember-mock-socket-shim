@@ -85,5 +85,8 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "resolutions": {
+    "conventional-changelog": "~3.0.6"
   }
 }
