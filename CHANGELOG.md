@@ -1,6 +1,25 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+# [1.0.0](https://github.com/omghax/ember-mock-socket-shim/compare/v0.1.2...v1.0.0) (2019-05-24)
+
+
+### Bug Fixes
+
+* resolve rollup-plugin-node-resolve deprecations ([#19](https://github.com/omghax/ember-mock-socket-shim/issues/19)) ([4f22a6e](https://github.com/omghax/ember-mock-socket-shim/commit/4f22a6e)), closes [/github.com/rollup/rollup-plugin-node-resolve/blob/6accfb15d026ad02798386799fc0a97a74ce8886/test/test.js#L539](https://github.com//github.com/rollup/rollup-plugin-node-resolve/blob/6accfb15d026ad02798386799fc0a97a74ce8886/test/test.js/issues/L539)
+
+
+### Build System
+
+* bump ember-cli from 3.9.0 to 3.10.1 ([02638c5](https://github.com/omghax/ember-mock-socket-shim/commit/02638c5))
+
+
+### BREAKING CHANGES
+
+* Drops support for Node 6
+
+
 
 ## [0.1.3](https://github.com/omghax/ember-mock-socket-shim/compare/v0.1.2...v0.1.3) (2019-04-10)
 
