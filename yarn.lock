@@ -6989,11 +6989,11 @@ mocha@^6.1.2:
     yargs-unparser "1.5.0"
 
 mock-socket@^8.0.5:
-  version "8.0.5"
-  resolved "https://registry.yarnpkg.com/mock-socket/-/mock-socket-8.0.5.tgz#4ce8909601b2bcdf5f7680f35c2f7b34beb2afc4"
-  integrity sha512-dE2EbcxJKQCeYLZSsI7BAiMZCe/bHbJ2LHb5aGwUuDmfoOINEJ8QI6qYJ85NHsSNkNa90F3s6onZcmt/+MppFA==
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/mock-socket/-/mock-socket-8.1.0.tgz#d7134eccf34dc6305433495fdcc00feb51015721"
+  integrity sha512-1nY+uRPbnykOcIjl9H3L6Iy6pX4lvremW2l2f+T/pu7j10eNZwWipGuCVOQAD+A9SgWjwKQgUySpKPwQp+vMSQ==
   dependencies:
-    url-parse "^1.2.0"
+    url-parse "^1.4.4"
 
 modify-values@^1.0.0:
   version "1.0.1"
@@ -7735,7 +7735,7 @@ query-string@^5.0.1:
     object-assign "^4.1.0"
     strict-uri-encode "^1.0.0"
 
-querystringify@^2.0.0:
+querystringify@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.1.1.tgz#60e5a5fd64a7f8bfa4d2ab2ed6fdf4c85bad154e"
   integrity sha512-w7fLxIRCRT7U8Qu53jQnJyPkYZIaR4n5151KMfcJlO/A9397Wxb1amJvROTK6TOnp7PfoAmg/qXiNHI+08jRfA==
@@ -9319,12 +9319,12 @@ url-parse-lax@^3.0.0:
   dependencies:
     prepend-http "^2.0.0"
 
-url-parse@^1.2.0:
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.4.tgz#cac1556e95faa0303691fec5cf9d5a1bc34648f8"
-  integrity sha512-/92DTTorg4JjktLNLe6GPS2/RvAd/RGr6LuktmWSMLEOa6rjnlrFXNgSbSmkNvCoL2T028A0a1JaJLzRMlFoHg==
+url-parse@^1.4.4:
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.7.tgz#a8a83535e8c00a316e403a5db4ac1b9b853ae278"
+  integrity sha512-d3uaVyzDB9tQoSXFvuSUNFibTd9zxd2bkVrDRvF5TmvWWQwqE4lgYJ5m+x1DbecWkw+LK4RNl2CU1hHuOKPVlg==
   dependencies:
-    querystringify "^2.0.0"
+    querystringify "^2.1.1"
     requires-port "^1.0.0"
 
 url-to-options@^1.0.1:
