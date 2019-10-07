@@ -6993,10 +6993,10 @@ mocha@^6.1.2:
     yargs-parser "13.0.0"
     yargs-unparser "1.5.0"
 
-mock-socket@^8.0.5:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/mock-socket/-/mock-socket-8.1.0.tgz#d7134eccf34dc6305433495fdcc00feb51015721"
-  integrity sha512-1nY+uRPbnykOcIjl9H3L6Iy6pX4lvremW2l2f+T/pu7j10eNZwWipGuCVOQAD+A9SgWjwKQgUySpKPwQp+vMSQ==
+mock-socket@^9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/mock-socket/-/mock-socket-9.0.1.tgz#38799faa19672af6b4bfaeb53bf671ca24316ee7"
+  integrity sha512-vm4kXy+qUK8CkDqsDedM6abiEM3vTgMEQADCEe804et/PJfb2wL+wjEMPe6UhjGNae0tzaCs8OemNFhebXaOZA==
   dependencies:
     url-parse "^1.4.4"
 
