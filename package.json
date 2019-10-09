@@ -31,7 +31,7 @@
     "broccoli-merge-trees": "^3.0.2",
     "broccoli-rollup": "~4.1.1",
     "ember-cli-babel": "^7.7.3",
-    "mock-socket": "^8.0.5",
+    "mock-socket": "^9.0.2",
     "rollup-plugin-buble": "^0.19.6",
     "rollup-plugin-commonjs": "^10.0.0",
     "rollup-plugin-node-resolve": "^4.0.1"
