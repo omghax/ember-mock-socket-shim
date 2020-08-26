@@ -41,7 +41,7 @@
     "@ember/optional-features": "^0.7.0",
     "broccoli-asset-rev": "^3.0.0",
     "chai": "^4.2.0",
-    "commitizen": "^3.0.7",
+    "commitizen": "^4.2.1",
     "commitlint": "^8.0.0",
     "conventional-changelog-conventionalcommits": "^3.0.2",
     "cz-conventional-changelog": "^2.1.0",
